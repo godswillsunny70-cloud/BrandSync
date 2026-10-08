@@ -1,0 +1,6 @@
+{
+  "name": "Halyard Social Suite",
+  "description": "Multi-client social media command center powered by Brand Voice Vault, AI Studio, live trend radar, account audits, content calendar, and an expert social media director.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

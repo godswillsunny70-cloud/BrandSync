@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --ink: #14273A;
+    --sail: #FBFBF8;
+    --fog: #EAEFEA;
+    --red: #D9432B;
+    --gold: #E8B422;
+    --sea: #1E6F78;
+    --line: #CBD4CD;
+    --mute: #5A6B7A;
+  }
+
+  body {
+    font-family: 'Instrument Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: var(--ink);
+    background-color: var(--fog);
+  }
+
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Bricolage Grotesque', system-ui, sans-serif;
+  }
+}
